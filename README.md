@@ -1,7 +1,7 @@
-Kotlin Sublime Text 2 Package 
+Kotlin Sublime Text Package 
 =============================
 
-This is [Sublime Text 2](http://www.sublimetext.com/) package for [Kotlin](http://kotlin.jetbrains.org/) programming language.
+This is [Sublime Text](http://www.sublimetext.com/) package for [Kotlin](http://kotlin.jetbrains.org/) programming language.
 
 ![Kotlin Sublime Text 2 Package Screenshoot](https://raw.github.com/vkostyukov/kotlin-sublime-package/master/scrot.png)
 
@@ -19,7 +19,7 @@ Download
 - Tagged zip: [kotlin-sublime-package-1.0.zip](https://github.com/vkostyukov/kotlin-sublime-package/archive/kotlin-sublime-package-1.0.zip)
 - Current zipball: [kotlin-sublime-package-master.zip](https://github.com/vkostyukov/kotlin-sublime-package/archive/master.zip)
 
-Instalation
+Installation
 -----------
 
 There are three ways to install Kotlin Sublime Package:
